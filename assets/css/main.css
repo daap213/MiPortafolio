@@ -2146,6 +2146,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
+
 /* List */
 
 	ol {
@@ -2639,8 +2640,8 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
-			margin: 0 2em 1em 0;
-			width: 8.25em;
+			margin: 0 0 1em 0;
+			width: 10.25em;
 		}
 
 /* Footer */
